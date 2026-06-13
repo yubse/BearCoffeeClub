@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "CN-110000-01",
+    "regionId": "CN-110000",
+    "name": "Bear Coffee Club 北京1号店",
+    "region": "北京市",
+    "address": "中国 · 北京市 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      116.41995,
+      40.18994
+    ]
+  },
+  {
+    "id": "CN-110000-02",
+    "regionId": "CN-110000",
+    "name": "Bear Coffee Club 北京2号店",
+    "region": "北京市",
+    "address": "中国 · 北京市 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      116.62895,
+      40.28894
+    ]
+  },
+  {
+    "id": "CN-120000-01",
+    "regionId": "CN-120000",
+    "name": "Bear Coffee Club 天津1号店",
+    "region": "天津市",
+    "address": "中国 · 天津市 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.347043,
+      39.288036
+    ]
+  },
+  {
+    "id": "CN-120000-02",
+    "regionId": "CN-120000",
+    "name": "Bear Coffee Club 天津2号店",
+    "region": "天津市",
+    "address": "中国 · 天津市 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.556043,
+      39.387036
+    ]
+  },
+  {
+    "id": "CN-120000-03",
+    "regionId": "CN-120000",
+    "name": "Bear Coffee Club 天津3号店",
+    "region": "天津市",
+    "address": "中国 · 天津市 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.171043,
+      39.409036
+    ]
+  },
+  {
+    "id": "CN-130000-01",
+    "regionId": "CN-130000",
+    "name": "Bear Coffee Club 河北1号店",
+    "region": "河北省",
+    "address": "中国 · 河北省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.502461,
+      38.045474
+    ]
+  },
+  {
+    "id": "CN-130000-02",
+    "regionId": "CN-130000",
+    "name": "Bear Coffee Club 河北2号店",
+    "region": "河北省",
+    "address": "中国 · 河北省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.711461,
+      38.144474
+    ]
+  },
+  {
+    "id": "CN-130000-03",
+    "regionId": "CN-130000",
+    "name": "Bear Coffee Club 河北3号店",
+    "region": "河北省",
+    "address": "中国 · 河北省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.326461,
+      38.166474
+    ]
+  },
+  {
+    "id": "CN-130000-04",
+    "regionId": "CN-130000",
+    "name": "Bear Coffee Club 河北4号店",
+    "region": "河北省",
+    "address": "中国 · 河北省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.601461,
+      37.891474
+    ]
+  },
+  {
+    "id": "CN-140000-01",
+    "regionId": "CN-140000",
+    "name": "Bear Coffee Club 山西1号店",
+    "region": "山西省",
+    "address": "中国 · 山西省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      112.304436,
+      37.618179
+    ]
+  },
+  {
+    "id": "CN-140000-02",
+    "regionId": "CN-140000",
+    "name": "Bear Coffee Club 山西2号店",
+    "region": "山西省",
+    "address": "中国 · 山西省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      112.513436,
+      37.717179
+    ]
+  },
+  {
+    "id": "CN-140000-03",
+    "regionId": "CN-140000",
+    "name": "Bear Coffee Club 山西3号店",
+    "region": "山西省",
+    "address": "中国 · 山西省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      112.128436,
+      37.739179
+    ]
+  },
+  {
+    "id": "CN-140000-04",
+    "regionId": "CN-140000",
+    "name": "Bear Coffee Club 山西4号店",
+    "region": "山西省",
+    "address": "中国 · 山西省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      112.403436,
+      37.464179
+    ]
+  },
+  {
+    "id": "CN-140000-05",
+    "regionId": "CN-140000",
+    "name": "Bear Coffee Club 山西5号店",
+    "region": "山西省",
+    "address": "中国 · 山西省 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      112.183436,
+      37.519179
+    ]
+  },
+  {
+    "id": "CN-150000-01",
+    "regionId": "CN-150000",
+    "name": "Bear Coffee Club 内蒙古1号店",
+    "region": "内蒙古自治区",
+    "address": "中国 · 内蒙古自治区 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.077429,
+      44.331087
+    ]
+  },
+  {
+    "id": "CN-210000-01",
+    "regionId": "CN-210000",
+    "name": "Bear Coffee Club 辽宁1号店",
+    "region": "辽宁省",
+    "address": "中国 · 辽宁省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      122.604994,
+      41.299712
+    ]
+  },
+  {
+    "id": "CN-210000-02",
+    "regionId": "CN-210000",
+    "name": "Bear Coffee Club 辽宁2号店",
+    "region": "辽宁省",
+    "address": "中国 · 辽宁省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      122.813994,
+      41.398712
+    ]
+  },
+  {
+    "id": "CN-210000-03",
+    "regionId": "CN-210000",
+    "name": "Bear Coffee Club 辽宁3号店",
+    "region": "辽宁省",
+    "address": "中国 · 辽宁省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      122.428994,
+      41.420712
+    ]
+  },
+  {
+    "id": "CN-220000-01",
+    "regionId": "CN-220000",
+    "name": "Bear Coffee Club 吉林1号店",
+    "region": "吉林省",
+    "address": "中国 · 吉林省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      126.171208,
+      43.703954
+    ]
+  },
+  {
+    "id": "CN-220000-02",
+    "regionId": "CN-220000",
+    "name": "Bear Coffee Club 吉林2号店",
+    "region": "吉林省",
+    "address": "中国 · 吉林省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      126.380208,
+      43.802954
+    ]
+  },
+  {
+    "id": "CN-220000-03",
+    "regionId": "CN-220000",
+    "name": "Bear Coffee Club 吉林3号店",
+    "region": "吉林省",
+    "address": "中国 · 吉林省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      125.995208,
+      43.824954
+    ]
+  },
+  {
+    "id": "CN-220000-04",
+    "regionId": "CN-220000",
+    "name": "Bear Coffee Club 吉林4号店",
+    "region": "吉林省",
+    "address": "中国 · 吉林省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      126.270208,
+      43.549954
+    ]
+  },
+  {
+    "id": "CN-230000-01",
+    "regionId": "CN-230000",
+    "name": "Bear Coffee Club 黑龙江1号店",
+    "region": "黑龙江省",
+    "address": "中国 · 黑龙江省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      127.693027,
+      48.040465
+    ]
+  },
+  {
+    "id": "CN-230000-02",
+    "regionId": "CN-230000",
+    "name": "Bear Coffee Club 黑龙江2号店",
+    "region": "黑龙江省",
+    "address": "中国 · 黑龙江省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      127.902027,
+      48.139465
+    ]
+  },
+  {
+    "id": "CN-230000-03",
+    "regionId": "CN-230000",
+    "name": "Bear Coffee Club 黑龙江3号店",
+    "region": "黑龙江省",
+    "address": "中国 · 黑龙江省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      127.517027,
+      48.161465
+    ]
+  },
+  {
+    "id": "CN-230000-04",
+    "regionId": "CN-230000",
+    "name": "Bear Coffee Club 黑龙江4号店",
+    "region": "黑龙江省",
+    "address": "中国 · 黑龙江省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      127.792027,
+      47.886465
+    ]
+  },
+  {
+    "id": "CN-230000-05",
+    "regionId": "CN-230000",
+    "name": "Bear Coffee Club 黑龙江5号店",
+    "region": "黑龙江省",
+    "address": "中国 · 黑龙江省 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      127.572027,
+      47.941465
+    ]
+  },
+  {
+    "id": "CN-310000-01",
+    "regionId": "CN-310000",
+    "name": "Bear Coffee Club 上海1号店",
+    "region": "上海市",
+    "address": "中国 · 上海市 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.438737,
+      31.072559
+    ]
+  },
+  {
+    "id": "CN-310000-02",
+    "regionId": "CN-310000",
+    "name": "Bear Coffee Club 上海2号店",
+    "region": "上海市",
+    "address": "中国 · 上海市 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.647737,
+      31.171559
+    ]
+  },
+  {
+    "id": "CN-310000-03",
+    "regionId": "CN-310000",
+    "name": "Bear Coffee Club 上海3号店",
+    "region": "上海市",
+    "address": "中国 · 上海市 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.262737,
+      31.193559
+    ]
+  },
+  {
+    "id": "CN-310000-04",
+    "regionId": "CN-310000",
+    "name": "Bear Coffee Club 上海4号店",
+    "region": "上海市",
+    "address": "中国 · 上海市 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.537737,
+      30.918559
+    ]
+  },
+  {
+    "id": "CN-320000-01",
+    "regionId": "CN-320000",
+    "name": "Bear Coffee Club 江苏1号店",
+    "region": "江苏省",
+    "address": "中国 · 江苏省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      119.486506,
+      32.983991
+    ]
+  },
+  {
+    "id": "CN-320000-02",
+    "regionId": "CN-320000",
+    "name": "Bear Coffee Club 江苏2号店",
+    "region": "江苏省",
+    "address": "中国 · 江苏省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      119.695506,
+      33.082991
+    ]
+  },
+  {
+    "id": "CN-320000-03",
+    "regionId": "CN-320000",
+    "name": "Bear Coffee Club 江苏3号店",
+    "region": "江苏省",
+    "address": "中国 · 江苏省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      119.310506,
+      33.104991
+    ]
+  },
+  {
+    "id": "CN-320000-04",
+    "regionId": "CN-320000",
+    "name": "Bear Coffee Club 江苏4号店",
+    "region": "江苏省",
+    "address": "中国 · 江苏省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      119.585506,
+      32.829991
+    ]
+  },
+  {
+    "id": "CN-320000-05",
+    "regionId": "CN-320000",
+    "name": "Bear Coffee Club 江苏5号店",
+    "region": "江苏省",
+    "address": "中国 · 江苏省 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      119.365506,
+      32.884991
+    ]
+  },
+  {
+    "id": "CN-330000-01",
+    "regionId": "CN-330000",
+    "name": "Bear Coffee Club 浙江1号店",
+    "region": "浙江省",
+    "address": "中国 · 浙江省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      120.109913,
+      29.181466
+    ]
+  },
+  {
+    "id": "CN-340000-01",
+    "regionId": "CN-340000",
+    "name": "Bear Coffee Club 安徽1号店",
+    "region": "安徽省",
+    "address": "中国 · 安徽省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.226884,
+      31.849254
+    ]
+  },
+  {
+    "id": "CN-340000-02",
+    "regionId": "CN-340000",
+    "name": "Bear Coffee Club 安徽2号店",
+    "region": "安徽省",
+    "address": "中国 · 安徽省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.435884,
+      31.948254
+    ]
+  },
+  {
+    "id": "CN-350000-01",
+    "regionId": "CN-350000",
+    "name": "Bear Coffee Club 福建1号店",
+    "region": "福建省",
+    "address": "中国 · 福建省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.006468,
+      26.069925
+    ]
+  },
+  {
+    "id": "CN-350000-02",
+    "regionId": "CN-350000",
+    "name": "Bear Coffee Club 福建2号店",
+    "region": "福建省",
+    "address": "中国 · 福建省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.215468,
+      26.168925
+    ]
+  },
+  {
+    "id": "CN-350000-03",
+    "regionId": "CN-350000",
+    "name": "Bear Coffee Club 福建3号店",
+    "region": "福建省",
+    "address": "中国 · 福建省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.830468,
+      26.190925
+    ]
+  },
+  {
+    "id": "CN-360000-01",
+    "regionId": "CN-360000",
+    "name": "Bear Coffee Club 江西1号店",
+    "region": "江西省",
+    "address": "中国 · 江西省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      115.732975,
+      27.636112
+    ]
+  },
+  {
+    "id": "CN-360000-02",
+    "regionId": "CN-360000",
+    "name": "Bear Coffee Club 江西2号店",
+    "region": "江西省",
+    "address": "中国 · 江西省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      115.941975,
+      27.735112
+    ]
+  },
+  {
+    "id": "CN-360000-03",
+    "regionId": "CN-360000",
+    "name": "Bear Coffee Club 江西3号店",
+    "region": "江西省",
+    "address": "中国 · 江西省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      115.556975,
+      27.757112
+    ]
+  },
+  {
+    "id": "CN-360000-04",
+    "regionId": "CN-360000",
+    "name": "Bear Coffee Club 江西4号店",
+    "region": "江西省",
+    "address": "中国 · 江西省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      115.831975,
+      27.482112
+    ]
+  },
+  {
+    "id": "CN-370000-01",
+    "regionId": "CN-370000",
+    "name": "Bear Coffee Club 山东1号店",
+    "region": "山东省",
+    "address": "中国 · 山东省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.187759,
+      36.376092
+    ]
+  },
+  {
+    "id": "CN-370000-02",
+    "regionId": "CN-370000",
+    "name": "Bear Coffee Club 山东2号店",
+    "region": "山东省",
+    "address": "中国 · 山东省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.396759,
+      36.475092
+    ]
+  },
+  {
+    "id": "CN-370000-03",
+    "regionId": "CN-370000",
+    "name": "Bear Coffee Club 山东3号店",
+    "region": "山东省",
+    "address": "中国 · 山东省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.011759,
+      36.497092
+    ]
+  },
+  {
+    "id": "CN-370000-04",
+    "regionId": "CN-370000",
+    "name": "Bear Coffee Club 山东4号店",
+    "region": "山东省",
+    "address": "中国 · 山东省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.286759,
+      36.222092
+    ]
+  },
+  {
+    "id": "CN-370000-05",
+    "regionId": "CN-370000",
+    "name": "Bear Coffee Club 山东5号店",
+    "region": "山东省",
+    "address": "中国 · 山东省 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.066759,
+      36.277092
+    ]
+  },
+  {
+    "id": "CN-410000-01",
+    "regionId": "CN-410000",
+    "name": "Bear Coffee Club 河南1号店",
+    "region": "河南省",
+    "address": "中国 · 河南省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.619717,
+      33.902648
+    ]
+  },
+  {
+    "id": "CN-410000-02",
+    "regionId": "CN-410000",
+    "name": "Bear Coffee Club 河南2号店",
+    "region": "河南省",
+    "address": "中国 · 河南省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.828717,
+      34.001648
+    ]
+  },
+  {
+    "id": "CN-410000-03",
+    "regionId": "CN-410000",
+    "name": "Bear Coffee Club 河南3号店",
+    "region": "河南省",
+    "address": "中国 · 河南省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.443717,
+      34.023648
+    ]
+  },
+  {
+    "id": "CN-410000-04",
+    "regionId": "CN-410000",
+    "name": "Bear Coffee Club 河南4号店",
+    "region": "河南省",
+    "address": "中国 · 河南省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.718717,
+      33.748648
+    ]
+  },
+  {
+    "id": "CN-410000-05",
+    "regionId": "CN-410000",
+    "name": "Bear Coffee Club 河南5号店",
+    "region": "河南省",
+    "address": "中国 · 河南省 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.498717,
+      33.803648
+    ]
+  },
+  {
+    "id": "CN-420000-01",
+    "regionId": "CN-420000",
+    "name": "Bear Coffee Club 湖北1号店",
+    "region": "湖北省",
+    "address": "中国 · 湖北省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      112.271301,
+      30.987527
+    ]
+  },
+  {
+    "id": "CN-430000-01",
+    "regionId": "CN-430000",
+    "name": "Bear Coffee Club 湖南1号店",
+    "region": "湖南省",
+    "address": "中国 · 湖南省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      111.711649,
+      27.629216
+    ]
+  },
+  {
+    "id": "CN-430000-02",
+    "regionId": "CN-430000",
+    "name": "Bear Coffee Club 湖南2号店",
+    "region": "湖南省",
+    "address": "中国 · 湖南省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      111.920649,
+      27.728216
+    ]
+  },
+  {
+    "id": "CN-440000-01",
+    "regionId": "CN-440000",
+    "name": "Bear Coffee Club 广东1号店",
+    "region": "广东省",
+    "address": "中国 · 广东省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.429919,
+      23.334643
+    ]
+  },
+  {
+    "id": "CN-440000-02",
+    "regionId": "CN-440000",
+    "name": "Bear Coffee Club 广东2号店",
+    "region": "广东省",
+    "address": "中国 · 广东省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.638919,
+      23.433643
+    ]
+  },
+  {
+    "id": "CN-440000-03",
+    "regionId": "CN-440000",
+    "name": "Bear Coffee Club 广东3号店",
+    "region": "广东省",
+    "address": "中国 · 广东省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.253919,
+      23.455643
+    ]
+  },
+  {
+    "id": "CN-450000-01",
+    "regionId": "CN-450000",
+    "name": "Bear Coffee Club 广西1号店",
+    "region": "广西壮族自治区",
+    "address": "中国 · 广西壮族自治区 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      108.7944,
+      23.833381
+    ]
+  },
+  {
+    "id": "CN-450000-02",
+    "regionId": "CN-450000",
+    "name": "Bear Coffee Club 广西2号店",
+    "region": "广西壮族自治区",
+    "address": "中国 · 广西壮族自治区 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.0034,
+      23.932381
+    ]
+  },
+  {
+    "id": "CN-450000-03",
+    "regionId": "CN-450000",
+    "name": "Bear Coffee Club 广西3号店",
+    "region": "广西壮族自治区",
+    "address": "中国 · 广西壮族自治区 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      108.6184,
+      23.954381
+    ]
+  },
+  {
+    "id": "CN-450000-04",
+    "regionId": "CN-450000",
+    "name": "Bear Coffee Club 广西4号店",
+    "region": "广西壮族自治区",
+    "address": "中国 · 广西壮族自治区 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      108.8934,
+      23.679381
+    ]
+  },
+  {
+    "id": "CN-460000-01",
+    "regionId": "CN-460000",
+    "name": "Bear Coffee Club 海南1号店",
+    "region": "海南省",
+    "address": "中国 · 海南省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.754859,
+      19.189767
+    ]
+  },
+  {
+    "id": "CN-460000-02",
+    "regionId": "CN-460000",
+    "name": "Bear Coffee Club 海南2号店",
+    "region": "海南省",
+    "address": "中国 · 海南省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.963859,
+      19.288767
+    ]
+  },
+  {
+    "id": "CN-460000-03",
+    "regionId": "CN-460000",
+    "name": "Bear Coffee Club 海南3号店",
+    "region": "海南省",
+    "address": "中国 · 海南省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.578859,
+      19.310767
+    ]
+  },
+  {
+    "id": "CN-460000-04",
+    "regionId": "CN-460000",
+    "name": "Bear Coffee Club 海南4号店",
+    "region": "海南省",
+    "address": "中国 · 海南省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.853859,
+      19.035767
+    ]
+  },
+  {
+    "id": "CN-460000-05",
+    "regionId": "CN-460000",
+    "name": "Bear Coffee Club 海南5号店",
+    "region": "海南省",
+    "address": "中国 · 海南省 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.633859,
+      19.090767
+    ]
+  },
+  {
+    "id": "CN-500000-01",
+    "regionId": "CN-500000",
+    "name": "Bear Coffee Club 重庆1号店",
+    "region": "重庆市",
+    "address": "中国 · 重庆市 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      107.8839,
+      30.067297
+    ]
+  },
+  {
+    "id": "CN-500000-02",
+    "regionId": "CN-500000",
+    "name": "Bear Coffee Club 重庆2号店",
+    "region": "重庆市",
+    "address": "中国 · 重庆市 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      108.0929,
+      30.166297
+    ]
+  },
+  {
+    "id": "CN-500000-03",
+    "regionId": "CN-500000",
+    "name": "Bear Coffee Club 重庆3号店",
+    "region": "重庆市",
+    "address": "中国 · 重庆市 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      107.7079,
+      30.188297
+    ]
+  },
+  {
+    "id": "CN-500000-04",
+    "regionId": "CN-500000",
+    "name": "Bear Coffee Club 重庆4号店",
+    "region": "重庆市",
+    "address": "中国 · 重庆市 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      107.9829,
+      29.913297
+    ]
+  },
+  {
+    "id": "CN-500000-05",
+    "regionId": "CN-500000",
+    "name": "Bear Coffee Club 重庆5号店",
+    "region": "重庆市",
+    "address": "中国 · 重庆市 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      107.7629,
+      29.968297
+    ]
+  },
+  {
+    "id": "CN-510000-01",
+    "regionId": "CN-510000",
+    "name": "Bear Coffee Club 四川1号店",
+    "region": "四川省",
+    "address": "中国 · 四川省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      102.693453,
+      30.674545
+    ]
+  },
+  {
+    "id": "CN-520000-01",
+    "regionId": "CN-520000",
+    "name": "Bear Coffee Club 贵州1号店",
+    "region": "贵州省",
+    "address": "中国 · 贵州省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      106.880455,
+      26.826368
+    ]
+  },
+  {
+    "id": "CN-520000-02",
+    "regionId": "CN-520000",
+    "name": "Bear Coffee Club 贵州2号店",
+    "region": "贵州省",
+    "address": "中国 · 贵州省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      107.089455,
+      26.925368
+    ]
+  },
+  {
+    "id": "CN-530000-01",
+    "regionId": "CN-530000",
+    "name": "Bear Coffee Club 云南1号店",
+    "region": "云南省",
+    "address": "中国 · 云南省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      101.485106,
+      25.008643
+    ]
+  },
+  {
+    "id": "CN-530000-02",
+    "regionId": "CN-530000",
+    "name": "Bear Coffee Club 云南2号店",
+    "region": "云南省",
+    "address": "中国 · 云南省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      101.694106,
+      25.107643
+    ]
+  },
+  {
+    "id": "CN-530000-03",
+    "regionId": "CN-530000",
+    "name": "Bear Coffee Club 云南3号店",
+    "region": "云南省",
+    "address": "中国 · 云南省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      101.309106,
+      25.129643
+    ]
+  },
+  {
+    "id": "CN-540000-01",
+    "regionId": "CN-540000",
+    "name": "Bear Coffee Club 西藏1号店",
+    "region": "西藏自治区",
+    "address": "中国 · 西藏自治区 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      88.388277,
+      31.56375
+    ]
+  },
+  {
+    "id": "CN-540000-02",
+    "regionId": "CN-540000",
+    "name": "Bear Coffee Club 西藏2号店",
+    "region": "西藏自治区",
+    "address": "中国 · 西藏自治区 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      88.597277,
+      31.66275
+    ]
+  },
+  {
+    "id": "CN-540000-03",
+    "regionId": "CN-540000",
+    "name": "Bear Coffee Club 西藏3号店",
+    "region": "西藏自治区",
+    "address": "中国 · 西藏自治区 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      88.212277,
+      31.68475
+    ]
+  },
+  {
+    "id": "CN-540000-04",
+    "regionId": "CN-540000",
+    "name": "Bear Coffee Club 西藏4号店",
+    "region": "西藏自治区",
+    "address": "中国 · 西藏自治区 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      88.487277,
+      31.40975
+    ]
+  },
+  {
+    "id": "CN-610000-01",
+    "regionId": "CN-610000",
+    "name": "Bear Coffee Club 陕西1号店",
+    "region": "陕西省",
+    "address": "中国 · 陕西省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      108.887114,
+      35.263661
+    ]
+  },
+  {
+    "id": "CN-610000-02",
+    "regionId": "CN-610000",
+    "name": "Bear Coffee Club 陕西2号店",
+    "region": "陕西省",
+    "address": "中国 · 陕西省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.096114,
+      35.362661
+    ]
+  },
+  {
+    "id": "CN-620000-01",
+    "regionId": "CN-620000",
+    "name": "Bear Coffee Club 甘肃1号店",
+    "region": "甘肃省",
+    "address": "中国 · 甘肃省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      103.823557,
+      36.058039
+    ]
+  },
+  {
+    "id": "CN-620000-02",
+    "regionId": "CN-620000",
+    "name": "Bear Coffee Club 甘肃2号店",
+    "region": "甘肃省",
+    "address": "中国 · 甘肃省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      104.032557,
+      36.157039
+    ]
+  },
+  {
+    "id": "CN-620000-03",
+    "regionId": "CN-620000",
+    "name": "Bear Coffee Club 甘肃3号店",
+    "region": "甘肃省",
+    "address": "中国 · 甘肃省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      103.647557,
+      36.179039
+    ]
+  },
+  {
+    "id": "CN-630000-01",
+    "regionId": "CN-630000",
+    "name": "Bear Coffee Club 青海1号店",
+    "region": "青海省",
+    "address": "中国 · 青海省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      96.043533,
+      35.726403
+    ]
+  },
+  {
+    "id": "CN-630000-02",
+    "regionId": "CN-630000",
+    "name": "Bear Coffee Club 青海2号店",
+    "region": "青海省",
+    "address": "中国 · 青海省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      96.252533,
+      35.825403
+    ]
+  },
+  {
+    "id": "CN-630000-03",
+    "regionId": "CN-630000",
+    "name": "Bear Coffee Club 青海3号店",
+    "region": "青海省",
+    "address": "中国 · 青海省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      95.867533,
+      35.847403
+    ]
+  },
+  {
+    "id": "CN-630000-04",
+    "regionId": "CN-630000",
+    "name": "Bear Coffee Club 青海4号店",
+    "region": "青海省",
+    "address": "中国 · 青海省 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      96.142533,
+      35.572403
+    ]
+  },
+  {
+    "id": "CN-640000-01",
+    "regionId": "CN-640000",
+    "name": "Bear Coffee Club 宁夏1号店",
+    "region": "宁夏回族自治区",
+    "address": "中国 · 宁夏回族自治区 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      106.169866,
+      37.291332
+    ]
+  },
+  {
+    "id": "CN-640000-02",
+    "regionId": "CN-640000",
+    "name": "Bear Coffee Club 宁夏2号店",
+    "region": "宁夏回族自治区",
+    "address": "中国 · 宁夏回族自治区 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      106.378866,
+      37.390332
+    ]
+  },
+  {
+    "id": "CN-640000-03",
+    "regionId": "CN-640000",
+    "name": "Bear Coffee Club 宁夏3号店",
+    "region": "宁夏回族自治区",
+    "address": "中国 · 宁夏回族自治区 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      105.993866,
+      37.412332
+    ]
+  },
+  {
+    "id": "CN-640000-04",
+    "regionId": "CN-640000",
+    "name": "Bear Coffee Club 宁夏4号店",
+    "region": "宁夏回族自治区",
+    "address": "中国 · 宁夏回族自治区 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      106.268866,
+      37.137332
+    ]
+  },
+  {
+    "id": "CN-640000-05",
+    "regionId": "CN-640000",
+    "name": "Bear Coffee Club 宁夏5号店",
+    "region": "宁夏回族自治区",
+    "address": "中国 · 宁夏回族自治区 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      106.048866,
+      37.192332
+    ]
+  },
+  {
+    "id": "CN-650000-01",
+    "regionId": "CN-650000",
+    "name": "Bear Coffee Club 新疆1号店",
+    "region": "新疆维吾尔自治区",
+    "address": "中国 · 新疆维吾尔自治区 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      85.294711,
+      41.371801
+    ]
+  },
+  {
+    "id": "CN-710000-01",
+    "regionId": "CN-710000",
+    "name": "Bear Coffee Club 台湾1号店",
+    "region": "台湾省",
+    "address": "中国 · 台湾省 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      120.971485,
+      23.749452
+    ]
+  },
+  {
+    "id": "CN-710000-02",
+    "regionId": "CN-710000",
+    "name": "Bear Coffee Club 台湾2号店",
+    "region": "台湾省",
+    "address": "中国 · 台湾省 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.180485,
+      23.848452
+    ]
+  },
+  {
+    "id": "CN-710000-03",
+    "regionId": "CN-710000",
+    "name": "Bear Coffee Club 台湾3号店",
+    "region": "台湾省",
+    "address": "中国 · 台湾省 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      120.795485,
+      23.870452
+    ]
+  },
+  {
+    "id": "CN-810000-01",
+    "regionId": "CN-810000",
+    "name": "Bear Coffee Club 香港1号店",
+    "region": "香港特别行政区",
+    "address": "中国 · 香港特别行政区 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.134357,
+      22.377366
+    ]
+  },
+  {
+    "id": "CN-810000-02",
+    "regionId": "CN-810000",
+    "name": "Bear Coffee Club 香港2号店",
+    "region": "香港特别行政区",
+    "address": "中国 · 香港特别行政区 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.343357,
+      22.476366
+    ]
+  },
+  {
+    "id": "CN-810000-03",
+    "regionId": "CN-810000",
+    "name": "Bear Coffee Club 香港3号店",
+    "region": "香港特别行政区",
+    "address": "中国 · 香港特别行政区 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.958357,
+      22.498366
+    ]
+  },
+  {
+    "id": "CN-810000-04",
+    "regionId": "CN-810000",
+    "name": "Bear Coffee Club 香港4号店",
+    "region": "香港特别行政区",
+    "address": "中国 · 香港特别行政区 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.233357,
+      22.223366
+    ]
+  },
+  {
+    "id": "CN-820000-01",
+    "regionId": "CN-820000",
+    "name": "Bear Coffee Club 澳门1号店",
+    "region": "澳门特别行政区",
+    "address": "中国 · 澳门特别行政区 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.566988,
+      22.159307
+    ]
+  },
+  {
+    "id": "CN-820000-02",
+    "regionId": "CN-820000",
+    "name": "Bear Coffee Club 澳门2号店",
+    "region": "澳门特别行政区",
+    "address": "中国 · 澳门特别行政区 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.775988,
+      22.258307
+    ]
+  },
+  {
+    "id": "CN-820000-03",
+    "regionId": "CN-820000",
+    "name": "Bear Coffee Club 澳门3号店",
+    "region": "澳门特别行政区",
+    "address": "中国 · 澳门特别行政区 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.390988,
+      22.280307
+    ]
+  },
+  {
+    "id": "CN-820000-04",
+    "regionId": "CN-820000",
+    "name": "Bear Coffee Club 澳门4号店",
+    "region": "澳门特别行政区",
+    "address": "中国 · 澳门特别行政区 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.665988,
+      22.005307
+    ]
+  },
+  {
+    "id": "CN-820000-05",
+    "regionId": "CN-820000",
+    "name": "Bear Coffee Club 澳门5号店",
+    "region": "澳门特别行政区",
+    "address": "中国 · 澳门特别行政区 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      113.445988,
+      22.060307
+    ]
+  },
+  {
+    "id": "SEA-IDN-01",
+    "regionId": "SEA-IDN",
+    "name": "Bear Coffee Club 印度尼西亚1号店",
+    "region": "印度尼西亚",
+    "address": "东南亚 · 印度尼西亚 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.995167,
+      -2.506259
+    ]
+  },
+  {
+    "id": "SEA-IDN-02",
+    "regionId": "SEA-IDN",
+    "name": "Bear Coffee Club 印度尼西亚2号店",
+    "region": "印度尼西亚",
+    "address": "东南亚 · 印度尼西亚 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.318167,
+      -2.353259
+    ]
+  },
+  {
+    "id": "SEA-IDN-03",
+    "regionId": "SEA-IDN",
+    "name": "Bear Coffee Club 印度尼西亚3号店",
+    "region": "印度尼西亚",
+    "address": "东南亚 · 印度尼西亚 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.723167,
+      -2.319259
+    ]
+  },
+  {
+    "id": "SEA-IDN-04",
+    "regionId": "SEA-IDN",
+    "name": "Bear Coffee Club 印度尼西亚4号店",
+    "region": "印度尼西亚",
+    "address": "东南亚 · 印度尼西亚 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      118.148167,
+      -2.744259
+    ]
+  },
+  {
+    "id": "SEA-IDN-05",
+    "regionId": "SEA-IDN",
+    "name": "Bear Coffee Club 印度尼西亚5号店",
+    "region": "印度尼西亚",
+    "address": "东南亚 · 印度尼西亚 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      117.808167,
+      -2.659259
+    ]
+  },
+  {
+    "id": "SEA-MYS-01",
+    "regionId": "SEA-MYS",
+    "name": "Bear Coffee Club 马来西亚1号店",
+    "region": "马来西亚",
+    "address": "东南亚 · 马来西亚 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.461658,
+      4.103575
+    ]
+  },
+  {
+    "id": "SEA-MYS-02",
+    "regionId": "SEA-MYS",
+    "name": "Bear Coffee Club 马来西亚2号店",
+    "region": "马来西亚",
+    "address": "东南亚 · 马来西亚 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.784657,
+      4.256575
+    ]
+  },
+  {
+    "id": "SEA-MYS-03",
+    "regionId": "SEA-MYS",
+    "name": "Bear Coffee Club 马来西亚3号店",
+    "region": "马来西亚",
+    "address": "东南亚 · 马来西亚 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.189657,
+      4.290575
+    ]
+  },
+  {
+    "id": "SEA-MYS-04",
+    "regionId": "SEA-MYS",
+    "name": "Bear Coffee Club 马来西亚4号店",
+    "region": "马来西亚",
+    "address": "东南亚 · 马来西亚 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.614658,
+      3.865575
+    ]
+  },
+  {
+    "id": "SEA-MYS-05",
+    "regionId": "SEA-MYS",
+    "name": "Bear Coffee Club 马来西亚5号店",
+    "region": "马来西亚",
+    "address": "东南亚 · 马来西亚 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      109.274658,
+      3.950575
+    ]
+  },
+  {
+    "id": "SEA-VNM-01",
+    "regionId": "SEA-VNM",
+    "name": "Bear Coffee Club 越南1号店",
+    "region": "越南",
+    "address": "东南亚 · 越南 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      105.795539,
+      15.965927
+    ]
+  },
+  {
+    "id": "SEA-VNM-02",
+    "regionId": "SEA-VNM",
+    "name": "Bear Coffee Club 越南2号店",
+    "region": "越南",
+    "address": "东南亚 · 越南 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      106.118539,
+      16.118927
+    ]
+  },
+  {
+    "id": "SEA-KHM-01",
+    "regionId": "SEA-KHM",
+    "name": "Bear Coffee Club 柬埔寨1号店",
+    "region": "柬埔寨",
+    "address": "东南亚 · 柬埔寨 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      104.96197,
+      12.560178
+    ]
+  },
+  {
+    "id": "SEA-KHM-02",
+    "regionId": "SEA-KHM",
+    "name": "Bear Coffee Club 柬埔寨2号店",
+    "region": "柬埔寨",
+    "address": "东南亚 · 柬埔寨 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      105.28497,
+      12.713178
+    ]
+  },
+  {
+    "id": "SEA-KHM-03",
+    "regionId": "SEA-KHM",
+    "name": "Bear Coffee Club 柬埔寨3号店",
+    "region": "柬埔寨",
+    "address": "东南亚 · 柬埔寨 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      104.68997,
+      12.747178
+    ]
+  },
+  {
+    "id": "SEA-KHM-04",
+    "regionId": "SEA-KHM",
+    "name": "Bear Coffee Club 柬埔寨4号店",
+    "region": "柬埔寨",
+    "address": "东南亚 · 柬埔寨 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      105.11497,
+      12.322178
+    ]
+  },
+  {
+    "id": "SEA-KHM-05",
+    "regionId": "SEA-KHM",
+    "name": "Bear Coffee Club 柬埔寨5号店",
+    "region": "柬埔寨",
+    "address": "东南亚 · 柬埔寨 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      104.77497,
+      12.407178
+    ]
+  },
+  {
+    "id": "SEA-LAO-01",
+    "regionId": "SEA-LAO",
+    "name": "Bear Coffee Club 老挝1号店",
+    "region": "老挝",
+    "address": "东南亚 · 老挝 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      103.880718,
+      18.205751
+    ]
+  },
+  {
+    "id": "SEA-THA-01",
+    "regionId": "SEA-THA",
+    "name": "Bear Coffee Club 泰国1号店",
+    "region": "泰国",
+    "address": "东南亚 · 泰国 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      101.501199,
+      13.037448
+    ]
+  },
+  {
+    "id": "SEA-THA-02",
+    "regionId": "SEA-THA",
+    "name": "Bear Coffee Club 泰国2号店",
+    "region": "泰国",
+    "address": "东南亚 · 泰国 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      101.824199,
+      13.190448
+    ]
+  },
+  {
+    "id": "SEA-TLS-01",
+    "regionId": "SEA-TLS",
+    "name": "Bear Coffee Club 东帝汶1号店",
+    "region": "东帝汶",
+    "address": "东南亚 · 东帝汶 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      125.671641,
+      -8.818126
+    ]
+  },
+  {
+    "id": "SEA-TLS-02",
+    "regionId": "SEA-TLS",
+    "name": "Bear Coffee Club 东帝汶2号店",
+    "region": "东帝汶",
+    "address": "东南亚 · 东帝汶 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      125.994641,
+      -8.665126
+    ]
+  },
+  {
+    "id": "SEA-TLS-03",
+    "regionId": "SEA-TLS",
+    "name": "Bear Coffee Club 东帝汶3号店",
+    "region": "东帝汶",
+    "address": "东南亚 · 东帝汶 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      125.399641,
+      -8.631126
+    ]
+  },
+  {
+    "id": "SEA-TLS-04",
+    "regionId": "SEA-TLS",
+    "name": "Bear Coffee Club 东帝汶4号店",
+    "region": "东帝汶",
+    "address": "东南亚 · 东帝汶 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      125.824641,
+      -9.056126
+    ]
+  },
+  {
+    "id": "SEA-BRN-01",
+    "regionId": "SEA-BRN",
+    "name": "Bear Coffee Club 文莱1号店",
+    "region": "文莱",
+    "address": "东南亚 · 文莱 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      114.679766,
+      4.536938
+    ]
+  },
+  {
+    "id": "SEA-BRN-02",
+    "regionId": "SEA-BRN",
+    "name": "Bear Coffee Club 文莱2号店",
+    "region": "文莱",
+    "address": "东南亚 · 文莱 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      115.002765,
+      4.689938
+    ]
+  },
+  {
+    "id": "SEA-MMR-01",
+    "regionId": "SEA-MMR",
+    "name": "Bear Coffee Club 缅甸1号店",
+    "region": "缅甸",
+    "address": "东南亚 · 缅甸 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      96.674414,
+      19.164592
+    ]
+  },
+  {
+    "id": "SEA-MMR-02",
+    "regionId": "SEA-MMR",
+    "name": "Bear Coffee Club 缅甸2号店",
+    "region": "缅甸",
+    "address": "东南亚 · 缅甸 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      96.997414,
+      19.317591
+    ]
+  },
+  {
+    "id": "SEA-PHL-01",
+    "regionId": "SEA-PHL",
+    "name": "Bear Coffee Club 菲律宾1号店",
+    "region": "菲律宾",
+    "address": "东南亚 · 菲律宾 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.786306,
+      12.889045
+    ]
+  },
+  {
+    "id": "SEA-PHL-02",
+    "regionId": "SEA-PHL",
+    "name": "Bear Coffee Club 菲律宾2号店",
+    "region": "菲律宾",
+    "address": "东南亚 · 菲律宾 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      122.109306,
+      13.042045
+    ]
+  },
+  {
+    "id": "SEA-PHL-03",
+    "regionId": "SEA-PHL",
+    "name": "Bear Coffee Club 菲律宾3号店",
+    "region": "菲律宾",
+    "address": "东南亚 · 菲律宾 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.514306,
+      13.076045
+    ]
+  },
+  {
+    "id": "SEA-PHL-04",
+    "regionId": "SEA-PHL",
+    "name": "Bear Coffee Club 菲律宾4号店",
+    "region": "菲律宾",
+    "address": "东南亚 · 菲律宾 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      121.939306,
+      12.651045
+    ]
+  },
+  {
+    "id": "SEA-SGP-01",
+    "regionId": "SEA-SGP",
+    "name": "Bear Coffee Club 新加坡1号店",
+    "region": "新加坡",
+    "address": "东南亚 · 新加坡 · 示例商圈 1",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      103.82191,
+      1.356472
+    ]
+  },
+  {
+    "id": "SEA-SGP-02",
+    "regionId": "SEA-SGP",
+    "name": "Bear Coffee Club 新加坡2号店",
+    "region": "新加坡",
+    "address": "东南亚 · 新加坡 · 示例商圈 2",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      104.14491,
+      1.509472
+    ]
+  },
+  {
+    "id": "SEA-SGP-03",
+    "regionId": "SEA-SGP",
+    "name": "Bear Coffee Club 新加坡3号店",
+    "region": "新加坡",
+    "address": "东南亚 · 新加坡 · 示例商圈 3",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      103.54991,
+      1.543472
+    ]
+  },
+  {
+    "id": "SEA-SGP-04",
+    "regionId": "SEA-SGP",
+    "name": "Bear Coffee Club 新加坡4号店",
+    "region": "新加坡",
+    "address": "东南亚 · 新加坡 · 示例商圈 4",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      103.97491,
+      1.118472
+    ]
+  },
+  {
+    "id": "SEA-SGP-05",
+    "regionId": "SEA-SGP",
+    "name": "Bear Coffee Club 新加坡5号店",
+    "region": "新加坡",
+    "address": "东南亚 · 新加坡 · 示例商圈 5",
+    "description": "这里是门店详情弹窗示例，后续可替换为真实介绍、营业时间、图片和导航链接。",
+    "coordinates": [
+      103.63491,
+      1.203472
+    ]
+  }
+]

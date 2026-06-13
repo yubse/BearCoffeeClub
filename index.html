@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Bear Coffee Club Map</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIINfQY5I0ZjjbM6EyX5DcUuBBp2g8U6gY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <main class="map-shell">
+      <div class="map-topbar">
+        <div>
+          <p class="eyebrow">Bear Coffee Club</p>
+          <h1>中国与东南亚门店热力地图</h1>
+        </div>
+        <button class="reset-button" id="resetView" type="button">重置视图</button>
+      </div>
+      <div id="map" aria-label="中国与东南亚门店地图"></div>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
